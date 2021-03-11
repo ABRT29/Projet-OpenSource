@@ -15,6 +15,7 @@ git clone https://github.com/ABRT29/Projet-OpenSource.git
 ## Usage
 
 ```java
+./gradlew run
 
 ```
 
