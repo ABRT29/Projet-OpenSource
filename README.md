@@ -9,7 +9,7 @@ Projet-OpenSource is a Java project to bring together the best open-source commu
 ## Installation
 
 ```bash
-clone git projet-opensource
+git clone https://github.com/ABRT29/Projet-OpenSource.git
 ```
 
 ## Usage
