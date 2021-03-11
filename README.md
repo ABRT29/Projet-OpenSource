@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.com/ABRT29/Projet-OpenSource.svg?branch=main)](https://travis-ci.com/ABRT29/Projet-OpenSource) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Projet-OpenSource
-
 Projet-OpenSource is a Java project to bring together the best open-source community 👨🏽‍💻
 
 ### Requirements 🔧
