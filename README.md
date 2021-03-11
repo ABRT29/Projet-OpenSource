@@ -9,11 +9,6 @@ Projet-OpenSource is a Java project to bring together the best open-source commu
 ## Thank You!
 Please ⭐️ this repo and share it with others
 
-### Screenshots
-Scientific / Dark |  Standard / Colored
-:------------------:|:-------------------
-![Calculator - screenshot](screenshots/dark.PNG) | ![Calculator - screenshot](screenshots/colored.PNG)
-
 ### Requirements 🔧
 * Java version 8 or higher.
 
