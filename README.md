@@ -12,7 +12,7 @@ Projet-OpenSource is a Java project to bring together the best open-source commu
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/ABRT29/Projet-OpenSource
+       git clone https://github.com/ABRT29/Projet-OpenSource.git
        
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Run the application 🎉
