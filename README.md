@@ -6,9 +6,6 @@
 
 Projet-OpenSource is a Java project to bring together the best open-source community 👨🏽‍💻
 
-## Thank You!
-Please ⭐️ this repo and share it with others
-
 ### Requirements 🔧
 * Java version 8 or higher.
 
