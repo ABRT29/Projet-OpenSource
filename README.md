@@ -15,7 +15,7 @@ Projet-OpenSource is a Java project to bring together the best open-source commu
        git clone https://github.com/ABRT29/Projet-OpenSource
        
 3. Imported it in Intellij IDEA or any other Java IDE.
-4. Run the application :D
+4. Run the application 🎉
 
 ### Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
