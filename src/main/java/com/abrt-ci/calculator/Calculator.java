@@ -123,24 +123,6 @@ public class Calculator {
                 }
         });
 
-        btnDiv = initBtn("/", x[3], y[1], event -> {
-            repaintFont();
-            if (Pattern.matches("([-]?\\d+[.]\\d*)|(\\d+)", inText.getText()))
-                if (go) {
-                    val = calc(val, inText.getText(), opt);
-                    if (Pattern.matches("[-]?[\\d]+[.][0]*", String.valueOf(val))) {
-                        inText.setText(String.valueOf((int) val));
-                    } else {
-                        inText.setText(String.valueOf(val));
-                    }
-                    opt = '/';
-                    go = false;
-                    addWrite = false;
-                } else {
-                    opt = '/';
-                }
-        });
-
         btn7 = initBtn("7", x[0], y[2], event -> {
             repaintFont();
             if (addWrite) {
